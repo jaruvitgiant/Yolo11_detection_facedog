@@ -1,3 +1,5 @@
+![Sample Image](models_index/detect/train/val_batch0_pred.jpg)
+
 Detect_dog_faceYOLO11 — คำอธิบายโฟลเดอร์
 
 ภาพรวม
@@ -15,4 +17,4 @@ Detect_dog_faceYOLO11 — คำอธิบายโฟลเดอร์
 - `runs/`: โฟลเดอร์ผลลัพธ์การฝึก/ทดลอง (logs, checkpoints)
 - `cut_object/`: เครื่องมือ/สคริปต์สำหรับตัดวัตถุ (cropping) ที่เกี่ยวข้อง
 
-
+acc 98%
