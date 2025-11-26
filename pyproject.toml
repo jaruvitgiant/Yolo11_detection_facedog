@@ -1,0 +1,11 @@
+[project]
+name = "projectyolo11"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.3.2",
+    "torch-directml>=0.2.5.dev240914",
+    "ultralytics>=8.3.199",
+]

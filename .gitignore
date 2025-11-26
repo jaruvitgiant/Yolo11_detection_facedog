@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+DogDatasets/
+testDog_results2/
+label/
+crops/
+crops0.7/
+crops0.8/
+predict/
+Results_test_yolov11n_index/
