@@ -1,6 +1,6 @@
 ![Sample Image](models_index/detect/train/val_batch0_pred.jpg)
 
-Detect_dog_faceYOLO11 — คำอธิบายโฟลเดอร์
+Detect_dog_faceYOLO11
 
 ภาพรวม
 - โฟลเดอร์นี้รวมโค้ดและทรัพยากรสำหรับตรวจจับใบหน้า/ส่วนหัวสุนัขโดยใช้รุ่น YOLO (เวอร์ชันที่เก็บเป็น `yolo11n.pt`) และสคริปต์สำหรับการทดสอบกับชุดข้อมูล unseen
